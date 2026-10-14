@@ -1,2 +1,0 @@
-# 
-basic pandas code
